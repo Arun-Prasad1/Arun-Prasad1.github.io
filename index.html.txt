@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="ta">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>என் தமிழ் வலைப்பதிவு</title>
+  <style>
+    body {
+      font-family: 'Noto Serif Tamil', serif;
+      margin: 0;
+      background: #f8f9fa;
+      color: #222;
+      line-height: 1.7;
+    }
+    header {
+      background: #111827;
+      color: white;
+      padding: 24px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    header p {
+      margin-top: 8px;
+      font-size: 14px;
+      opacity: 0.8;
+    }
+    main {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+    article {
+      background: white;
+      padding: 24px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      margin-bottom: 32px;
+    }
+    article h2 {
+      margin-top: 0;
+      font-size: 22px;
+    }
+    article small {
+      color: #6b7280;
+    }
+    footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>என் தமிழ் வலைப்பதிவு</h1>
+  <p>எண்ணங்கள் • அனுபவங்கள் • அறிவு</p>
+</header>
+
+<main>
+  <article>
+    <h2>முதல் பதிவு</h2>
+    <small>செப்டம்பர் 2026</small>
+    <p>
+      இது என் முதல் தமிழ் கட்டுரை. இங்கு நான் வாழ்க்கை, தொழில்,
+      சிந்தனை மற்றும் அனுபவங்களை பகிர்ந்து கொள்வேன்.
+    </p>
+  </article>
+
+  <article>
+    <h2>ஏன் எழுத வேண்டும்?</h2>
+    <small>செப்டம்பர் 2026</small>
+    <p>
+      எழுதுவது மனதை தெளிவாக்கும் ஒரு பயணம்.
+      தினமும் எழுதுவது நம்மை நம்மோடு பேச வைக்கும்.
+    </p>
+  </article>
+</main>
+
+<footer>
+  © 2026 | என் தமிழ் வலைப்பதிவு
+</footer>
+
+</body>
+</html>
